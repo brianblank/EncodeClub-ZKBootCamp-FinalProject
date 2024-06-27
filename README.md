@@ -76,6 +76,7 @@ node src/js/vote.js
 ```
 
 ## Example Execution
+```
 (base) brian@DESKTOP-JOU6V0Q:~/dev/zkbootcamp-finalproject/EncodeClub-ZKBootCamp-FinalProject$ node src/js/vote.js
 Identities:
 Identity {
@@ -207,7 +208,4 @@ Vote: Joe Biden
   ]
 }
 Proof is valid: true
-
-
-
-
+```
